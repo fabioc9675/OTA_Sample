@@ -9,7 +9,7 @@ const char * password = "grezzo57";
 
 #define LED_BUILTIN 2
 
-#define FirmwareVer  "1.2"
+#define FirmwareVer  "1.4"
 
 #define URL_fw_Version "https://raw.githubusercontent.com/fabioc9675/OTA_Sample/main/esp32_ota/bin_version.txt"
 #define URL_fw_Bin "https://raw.githubusercontent.com/fabioc9675/OTA_Sample/main/esp32_ota/fw.bin"
