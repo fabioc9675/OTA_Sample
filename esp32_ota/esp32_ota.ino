@@ -11,8 +11,8 @@ const char * password = "grezzo57";
 
 #define FirmwareVer  "1.0"
 
-#define URL_fw_Version "https://raw.githubusercontent.com/fabioc9675/OTA_Sample/master/esp32_ota/bin_version.txt"
-#define URL_fw_Bin "https://raw.githubusercontent.com/fabioc9675/OTA_Sample/master/esp32_ota/fw.bin"
+#define URL_fw_Version "https://raw.githubusercontent.com/fabioc9675/OTA_Sample/main/esp32_ota/bin_version.txt"
+#define URL_fw_Bin "https://raw.githubusercontent.com/fabioc9675/OTA_Sample/main/esp32_ota/fw.bin"
 
 //#define URL_fw_Version "http://cade-make.000webhostapp.com/version.txt"
 //#define URL_fw_Bin "http://cade-make.000webhostapp.com/firmware.bin"
